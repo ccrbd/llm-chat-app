@@ -20,5 +20,5 @@
   "upload_source_maps": true
 }
 
-[[routes]]
-pattern = "ai.mahedihasan.com/*"
+# single‐domain route
+route = "ai.mahedihasan.com/*"
