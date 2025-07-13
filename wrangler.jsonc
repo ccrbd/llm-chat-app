@@ -21,4 +21,4 @@
 }
 
 # single‐domain route
-route = "ai.mahedihasan.com/*"
+route = "chatbot.mahedihasan.com/*"
